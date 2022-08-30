@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: lightsteelblue;
+	font-size: 21px;
+}
+header{
+	background-color: lightgray;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2 {
+	color: blue;
+}
+.I{
+	font-style: italic;
+}
+#fonte{
+	font-size: 25px;
+}
+#font{
+	font-size: 28px;
+}
+#Fim{
+	font-size: 34px;
+}
